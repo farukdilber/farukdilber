@@ -8,13 +8,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmetfarukdilber/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmetfarukdilber/)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/farukxc/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/farukxc/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farukdilber)](https://github.com/farukdilber/github-readme-stats)
 
 ### Languages and Tools:
 
